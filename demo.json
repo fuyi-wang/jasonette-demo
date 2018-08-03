@@ -1,7 +1,13 @@
-"background": {
-	"type": "html",
-	"url": "http://dde.anker-in.com/",
-	"action": {
-		"trigger": "navigate"
-	}
+{  
+   "$jason":{  
+      "body":{  
+         "background":{  
+            "type":"html",
+            "url":"http://dde.anker-in.com/",
+            "action":{  
+               "trigger":"navigate"
+            }
+         }
+      }
+   }
 }
